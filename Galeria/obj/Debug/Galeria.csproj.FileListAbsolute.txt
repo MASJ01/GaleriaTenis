@@ -1,0 +1,36 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\bin\Debug\Galeria.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\bin\Debug\Galeria.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\bin\Debug\Galeria.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.Cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+E:\Projects\Galeria\Galeria\bin\Debug\Galeria.exe.config
+E:\Projects\Galeria\Galeria\bin\Debug\Galeria.exe
+E:\Projects\Galeria\Galeria\bin\Debug\Galeria.pdb
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.AssemblyReference.cache
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.cache
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.CoreCompileInputs.cache
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.exe
+E:\Projects\Galeria\Galeria\obj\Debug\Galeria.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\Galeria.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\Galeria.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\Galeria.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\mscorlib.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\normidna.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\normnfc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\normnfd.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\normnfkc.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\bin\Debug\normnfkd.nlp
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.Form1.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Galeria\Galeria\obj\Debug\Galeria.csproj.GenerateResource.Cache
